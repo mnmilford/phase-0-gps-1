@@ -5,7 +5,7 @@ Here is an *italics* item and _here_
 my favorite code is
 
 ```
-git pull origin master
+git push origin master
 ```
 
 My favorite [website](https://www.reddit.com/)
